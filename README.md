@@ -11,6 +11,6 @@ i turn coffee into code and bugs into slightly different bugs.
 
 ## connect with me
 
-- [Personal Website](https://pratyush-kumar-mahato.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/pratyush-kumar-mahato-4ba2b6352)
-- [Email Me](mailto:pratyush.mahato@research.iiit.ac.in)
+- [web](https://pratyush-kumar-mahato.vercel.app)
+- [linkedin](https://www.linkedin.com/in/pratyush-kumar-mahato-4ba2b6352)
+- [mail](mailto:pratyush.mahato@research.iiit.ac.in)
