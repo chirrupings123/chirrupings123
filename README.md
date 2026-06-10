@@ -1,16 +1,16 @@
-## Hi there 👋
+# sup, chirrupings this side 👾
 
-<!--
-**chirrupings123/chirrupings123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i turn coffee into code and bugs into slightly different bugs.
 
-Here are some ideas to get you started:
+## about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 current student at **IIIT Hyderabad**
+- 💻 pursuing **CSD**
+- 🌱 always learning, building, and occasionally questioning why my code works
+- 🐛 fun fact: i use dark mode because light attracts bugs
+
+## connect with me
+
+- 🌐 [Personal Website](https://pratyush-kumar-mahato.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratyush-kumar-mahato-4ba2b6352)
+- 📧 [Email Me](mailto:pratyush.mahato@research.iiit.ac.in)
